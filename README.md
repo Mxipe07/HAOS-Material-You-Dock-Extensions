@@ -106,6 +106,10 @@ Material-inspirierte Schnellzugriffskarten für wichtige Bereiche.
 - Farben
 - Texte
 
+
+## Banner Preview Source
+
+The file `assets/banner/00-dashboard-banner.html` contains a local HTML preview used to create branding visuals for this project.
 ---
 
 ## 🚀 Features
