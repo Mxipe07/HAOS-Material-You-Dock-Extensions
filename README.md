@@ -140,7 +140,7 @@ Material-inspirierte Schnellzugriffskarten für wichtige Bereiche.
 
 👉 Für den besten Look:
 
-- 🌈 [Material You Theme (Beispiel)](https://github.com/Nerwyn/material-rounded-theme)  
+- 🌈 [Material You Theme](https://github.com/Nerwyn/material-rounded-theme) von [mmm](https://github.com/mmm) 
   → gute Basis für Material Design
 
 ODER
