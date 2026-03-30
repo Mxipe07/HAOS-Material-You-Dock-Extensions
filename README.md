@@ -1,7 +1,6 @@
 <div align="center">
 
-  <h1>HAOS</h1> 
-  <h2>Material You Dock Extensions</h2>
+  <h1>Material You Dock Extensions</h1>
 
   <p><b>Modernes Home Assistant UI im Material You Stil</b><br>
   Bottom Dock • Swipe Tabs • Feature Cards</p>
