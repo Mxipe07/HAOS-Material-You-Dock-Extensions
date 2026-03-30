@@ -14,13 +14,13 @@
 
   <p>
     <a href="https://github.com/smarthomebutbetter/HAOS-Material-You-Dock-Extensions/stargazers">
-      <img src="https://img.shields.io/github/stars/smarthomebutbetter/HAOS-Material- You-Dock-Extensions/HAOS-Material-You-Dock-Extensions?style=social">
+      <img src="https://img.shields.io/github/stars/smarthomebutbetter/HAOS-Material-You-Dock-Extensions?style=social">
     </a>
-    <a href="https://github.com/smarthomebutbetter/HAOS-Material- You-Dock-Extensions/HAOS-Material-You-Dock-Extensions/issues">
-      <img src="https://img.shields.io/github/issues/smarthomebutbetter/HAOS-Material- You-Dock-Extensions/HAOS-Material-You-Dock-Extensions">
+    <a href="https://github.com/smarthomebutbetter/HAOS-Material-You-Dock-Extensions/issues">
+      <img src="https://img.shields.io/github/issues/smarthomebutbetter/HAOS-Material-You-Dock-Extensions">
     </a>
-    <a href="https://github.com/smarthomebutbetter/HAOS-Material- You-Dock-Extensions/HAOS-Material-You-Dock-Extensions/commits">
-      <img src="https://img.shields.io/github/last-commit/smarthomebutbetter/HAOS-Material- You-Dock-Extensions/HAOS-Material-You-Dock-Extensions">
+    <a href="https://github.com/smarthomebutbetter/HAOS-Material-You-Dock-Extensions/commits">
+      <img src="https://img.shields.io/github/last-commit/smarthomebutbetter/HAOS-Material-You-Dock-Extensions">
     </a>
   </p>
 
@@ -133,4 +133,4 @@ Material-inspirierte Schnellzugriffskarten für wichtige Bereiche.
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/smarthomebutbetter/HAOS-Material-You-Dock-Extensions
+git clone https://github.com/smarthomebutbetter/HAOS-Material-You-Dock-Extensions.git
