@@ -122,12 +122,36 @@ Material-inspirierte Schnellzugriffskarten für wichtige Bereiche.
 ## ⚙️ Voraussetzungen
 
 - Home Assistant  
-- `[button-card](https://github.com/custom-cards/button-card) von [RomRider](https://github.com/romrider)`  
-- `card-mod`  
-- `swipe-card`  
 
-👉 Empfohlen: Material You Theme oder eigenes Theme
+### 🔌 Benötigte Karten / Add-ons
 
+- 🔘 [button-card](https://github.com/custom-cards/button-card) von [RomRider](https://github.com/romrider)  
+  → flexible UI Karten (Basis für Dock & Feature Cards)
+
+- 🎨 [card-mod](https://github.com/thomasloven/lovelace-card-mod) von [thomasloven](https://github.com/thomasloven)  
+  → Styling, CSS, Material Look
+
+- 👉 [swipe-card](https://github.com/bramkragten/swipe-card) von [bramkragten](https://github.com/bramkragten)  
+  → Swipe Navigation für Tabs
+
+---
+
+### 🎨 Theme (empfohlen)
+
+👉 Für den besten Look:
+
+- 🌈 [Material You Theme (Beispiel)](https://github.com/Nerwyn/material-rounded-theme)  
+  → gute Basis für Material Design
+
+ODER
+
+- ✨ eigenes angepasstes Theme  
+  → empfohlen für maximale Kontrolle (dein Stil)
+
+---
+
+💡 Tipp:  
+Alle Karten lassen sich einfach über **HACS installieren**.
 ---
 
 ## 📦 Installation
